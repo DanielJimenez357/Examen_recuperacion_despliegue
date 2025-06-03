@@ -1,0 +1,20 @@
+.caja{
+    display: flex;
+}
+
+
+.modulo{
+    display: flex;
+    width: 20vw;
+    height: 20vw;
+    background-color: green;
+}
+
+.hora{
+    margin-left: 10%;
+    width: 20vw;
+    height: 20vw;
+    display: flex;
+    background-color: yellow;
+}
+
